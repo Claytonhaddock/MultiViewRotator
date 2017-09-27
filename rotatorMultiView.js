@@ -31,7 +31,6 @@ var rotatorMultiView;
 
 				/*
 					STARTING CUSTOM ROTATOR 
-					@author Noe Huerta
 				*/
 
 				
